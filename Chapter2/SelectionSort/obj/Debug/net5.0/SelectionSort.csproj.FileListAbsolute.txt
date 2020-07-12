@@ -1,0 +1,13 @@
+C:\Users\Marcus\source\repos\GrokkingAlgorithms\Chapter2\SelectionSort\obj\Debug\net5.0\SelectionSort.csprojAssemblyReference.cache
+C:\Users\Marcus\source\repos\GrokkingAlgorithms\Chapter2\SelectionSort\obj\Debug\net5.0\SelectionSort.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\GrokkingAlgorithms\Chapter2\SelectionSort\obj\Debug\net5.0\SelectionSort.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\GrokkingAlgorithms\Chapter2\SelectionSort\obj\Debug\net5.0\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\GrokkingAlgorithms\Chapter2\SelectionSort\bin\Debug\net5.0\SelectionSort.exe
+C:\Users\Marcus\source\repos\GrokkingAlgorithms\Chapter2\SelectionSort\bin\Debug\net5.0\SelectionSort.deps.json
+C:\Users\Marcus\source\repos\GrokkingAlgorithms\Chapter2\SelectionSort\bin\Debug\net5.0\SelectionSort.runtimeconfig.json
+C:\Users\Marcus\source\repos\GrokkingAlgorithms\Chapter2\SelectionSort\bin\Debug\net5.0\SelectionSort.runtimeconfig.dev.json
+C:\Users\Marcus\source\repos\GrokkingAlgorithms\Chapter2\SelectionSort\bin\Debug\net5.0\SelectionSort.dll
+C:\Users\Marcus\source\repos\GrokkingAlgorithms\Chapter2\SelectionSort\bin\Debug\net5.0\SelectionSort.pdb
+C:\Users\Marcus\source\repos\GrokkingAlgorithms\Chapter2\SelectionSort\obj\Debug\net5.0\SelectionSort.dll
+C:\Users\Marcus\source\repos\GrokkingAlgorithms\Chapter2\SelectionSort\obj\Debug\net5.0\SelectionSort.pdb
+C:\Users\Marcus\source\repos\GrokkingAlgorithms\Chapter2\SelectionSort\obj\Debug\net5.0\SelectionSort.genruntimeconfig.cache
